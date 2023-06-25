@@ -1,5 +1,5 @@
 # Terminal
-# terminal
+
 gitbash
 
 1. Посмотреть где я.
@@ -74,19 +74,19 @@ gitbash
 
 23. Сделать папку dir1
 
-       mkdir dir1
+        mkdir dir1
 24. Зайти в папку dir1
        
-       cd ./dir1
+        cd ./dir1
 25. Создать папку subdir1
        
-       mkdir subdir1 
+        mkdir subdir1 
 26. Посмотреть где ты находишься.
        
-       pwd
+        pwd
 27. Находясь в папке dir1 создать пустой текстовый файл ab1.txt
        
-       touch ab1.txt
+        touch ab1.txt
 28. Находясь в папке dir1 через команду cat создать текстовый файл ab2.txt со следующими строками:
 - is the first 1 
 - is the second 2
@@ -98,13 +98,13 @@ gitbash
 	  is the third 3
 29. Зайти в папку subdir1
        
-       cd subdir1
+        cd subdir1
 30. Через cat сделать текстовый файл ab3.txt  c любыми строками.
 
-       cat > ab3.txt
-       string 1
-       string 2
-       string 3
+        cat > ab3.txt
+        string 1
+        string 2
+        string 3
 31. Через cat добавить в текстовый файл ab3.txt строку “is the second 2”
 
        cat >> ab3.txt <<< "is the second 2"
