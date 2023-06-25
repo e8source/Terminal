@@ -107,7 +107,7 @@ gitbash
         string 3
 31. Через cat добавить в текстовый файл ab3.txt строку “is the second 2”
 
-       cat >> ab3.txt <<< "is the second 2"
+        cat >> ab3.txt <<< "is the second 2"
 32. Через cat добавить в текстовый файл ab3.txt строку “is the sec 2”
 
         cat >> ab3.txt <<< "is the sec 2"
